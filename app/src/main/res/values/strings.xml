@@ -1,0 +1,1316 @@
+<resources>
+    <string name="app_name">WotaKuy</string>
+    <string name="ss_name">Wota Kuy 48</string>
+
+    <string name="fullname_mjkt48">Nama Lengkap</string>
+    <string name="nickname_mjkt48">Nama Panggilan</string>
+    <string name="fullname_developer">Samuel Oliver Limanjaya</string>
+    <string name="email_developer">samueloliver760@gmail.com</string>
+    <string name="status_mjkt48">Status</string>
+    <string name="gen_mjkt48">Gen</string>
+    <string name="jumlahshow_mjkt48">Jumlah show</string>
+    <string name="jiko_mjkt48">Jiko</string>
+    <string name="biodata">Biodata</string>
+    <string name="sosmed">Social Media</string>
+    <string name="tanggallahir">Tanggal Lahir</string>
+    <string name="goldarah">Golongan darah</string>
+    <string name="horoskop">Horoskop</string>
+    <string name="debutgen">Debut gen</string>
+    <string name="promosi">Promosi inti</string>
+    <string name="fanbase">Fanbase</string>
+    <string name="tofanbase">Kunjungi Fanbase</string>
+    <string name="deskripsikabesha">Kabesha adalah foto member / trainee yang masih aktif </string>
+    <string name="deskripsi_pp">Profile picture developer app WotaKuy</string>
+    <string name="desinstagram">Akun resmi Instragram</string>
+    <string name="destwitter">Akun resmi X</string>
+    <string name="desshowroom">Akun resmi Showroom</string>
+    <string name="destiktok">Akun resmi Tiktok</string>
+    <string name="desidnlive">Akun resmi IDN Live</string>
+    <string name="profile">Profile</string>
+
+    <string-array name="data_fullname">
+        <item>Adzana Shaliha</item>
+        <item>Amanda Sukma</item>
+        <item>Angelina Christy</item>
+        <item>Aurellia</item>
+        <item>Azizi Asadel</item>
+        <item>Callista Alifia</item>
+        <item>Cornelia Vanisa</item>
+        <item>Febriola Sinambela</item>
+        <item>Feni Fitriyanti</item>
+        <item>Fiony Alveria</item>
+        <item>Flora Shafiq</item>
+        <item>Freya Jayawardana</item>
+        <item>Gabriela Abigail</item>
+        <item>Gita Sekar Andarini</item>
+        <item>Helisma Putri</item>
+        <item>Indah Cahya</item>
+        <item>Indira Seruni</item>
+        <item>Jessica Chandra</item>
+        <item>Jesselyn Elly</item>
+        <item>Kathrina Irene</item>
+        <item>Lulu Salsabila</item>
+        <item>Marsha Lenathea</item>
+        <item>Mutiara Azzahra</item>
+        <item>Raisha Syifa</item>
+        <item>Reva Fidela</item>
+        <item>Shani Indira Natio</item>
+        <item>Shania Gracia</item>
+        <item>Yessica Tamara</item>
+        <item>Abigail Rachel</item>
+        <item>Adeline Wijaya</item>
+        <item>Aisa Maharani</item>
+        <item>Alya Amanda</item>
+        <item>Anindya Ramadhani</item>
+        <item>Aurhel Alana</item>
+        <item>Catherina Vallencia</item>
+        <item>Cathleen Nixie</item>
+        <item>Celine Thefani</item>
+        <item>Chelsea Davina</item>
+        <item>Cynthia Yaputera</item>
+        <item>Dena Natalia</item>
+        <item>Dessy Natalia</item>
+        <item>Fritzy Rosmerian</item>
+        <item>Gendis Mayrannisa</item>
+        <item>Grace Octaviani</item>
+        <item>Greesella Adhalia</item>
+        <item>Hillary Abigail</item>
+        <item>Jazzlyn Trisha</item>
+        <item>Jeane Victoria</item>
+        <item>Letycia Moreen</item>
+        <item>Michelle Alexandra</item>
+        <item>Michelle Levia</item>
+        <item>Nayla Suji</item>
+        <item>Nina Tutachia</item>
+        <item>Oline Manuel</item>
+        <item>Regina William</item>
+        <item>Ribka Budiman</item>
+        <item>Shabilqis Naila</item>
+        <item>Victoria Kimberly</item>
+    </string-array>
+
+    <string-array name="data_nickname">
+        <item>\u0028Ashel\u0029</item>
+        <item>\u0028Amanda\u0029</item>
+        <item>\u0028Christy\u0029</item>
+        <item>\u0028Lia\u0029</item>
+        <item>\u0028Zee\u0029</item>
+        <item>\u0028Callie\u0029</item>
+        <item>\u0028Oniel\u0029</item>
+        <item>\u0028Olla\u0029</item>
+        <item>\u0028Feni\u0029</item>
+        <item>\u0028Fiony\u0029</item>
+        <item>\u0028Flora\u0029</item>
+        <item>\u0028Freya\u0029</item>
+        <item>\u0028Ella\u0029</item>
+        <item>\u0028Gita\u0029</item>
+        <item>\u0028Eli\u0029</item>
+        <item>\u0028Indah\u0029</item>
+        <item>\u0028Indira\u0029</item>
+        <item>\u0028Jessi\u0029</item>
+        <item>\u0028Lyn\u0029</item>
+        <item>\u0028Kathrina\u0029</item>
+        <item>\u0028Lulu\u0029</item>
+        <item>\u0028Marsha\u0029</item>
+        <item>\u0028Muthe\u0029</item>
+        <item>\u0028Raisha\u0029</item>
+        <item>\u0028Adel\u0029</item>
+        <item>\u0028Shani\u0029</item>
+        <item>\u0028Gracia\u0029</item>
+        <item>\u0028Chika\u0029</item>
+        <item>\u0028Aralie\u0029</item>
+        <item>\u0028Delynn\u0029</item>
+        <item>\u0028Shasa\u0029</item>
+        <item>\u0028Alya\u0029</item>
+        <item>\u0028Anin\u0029</item>
+        <item>\u0028Lana\u0029</item>
+        <item>\u0028Erine\u0029</item>
+        <item>\u0028Cathy\u0029</item>
+        <item>\u0028Elin\u0029</item>
+        <item>\u0028Chelsea\u0029</item>
+        <item>\u0028Cynthia\u0029</item>
+        <item>\u0028Dena\u0029</item>
+        <item>\u0028Dessy\u0029</item>
+        <item>\u0028Fritzy\u0029</item>
+        <item>\u0028Gendis\u0029</item>
+        <item>\u0028Gracie\u0029</item>
+        <item>\u0028Greesel\u0029</item>
+        <item>\u0028Lily\u0029</item>
+        <item>\u0028Trisha\u0029</item>
+        <item>\u0028Jeane\u0029</item>
+        <item>\u0028Moreen\u0029</item>
+        <item>\u0028Michie\u0029</item>
+        <item>\u0028Levi\u0029</item>
+        <item>\u0028Nayla\u0029</item>
+        <item>\u0028Nachia\u0029</item>
+        <item>\u0028Oline\u0029</item>
+        <item>\u0028Regie\u0029</item>
+        <item>\u0028Ribka\u0029</item>
+        <item>\u0028Nala\u0029</item>
+        <item>\u0028Kimmy\u0029</item>
+    </string-array>
+
+    <string-array name="data_nicknameclear">
+        <item>Ashel</item>
+        <item>Amanda</item>
+        <item>Christy</item>
+        <item>Lia</item>
+        <item>Zee</item>
+        <item>Callie</item>
+        <item>Oniel</item>
+        <item>Olla</item>
+        <item>Feni</item>
+        <item>Fiony</item>
+        <item>Flora</item>
+        <item>Freya</item>
+        <item>Ella</item>
+        <item>Gita</item>
+        <item>Eli</item>
+        <item>Indah</item>
+        <item>Indira</item>
+        <item>Jessi</item>
+        <item>Lyn</item>
+        <item>Kathrina</item>
+        <item>Lulu</item>
+        <item>Marsha</item>
+        <item>Muthe</item>
+        <item>Raisha</item>
+        <item>Adel</item>
+        <item>Shani</item>
+        <item>Gracia</item>
+        <item>Chika</item>
+        <item>Aralie</item>
+        <item>Delynn</item>
+        <item>Shasa</item>
+        <item>Alya</item>
+        <item>Anin</item>
+        <item>Lana</item>
+        <item>Erine</item>
+        <item>Cathy</item>
+        <item>Elin</item>
+        <item>Chelsea</item>
+        <item>Cynthia</item>
+        <item>Dena</item>
+        <item>Dessy</item>
+        <item>Fritzy</item>
+        <item>Gendis</item>
+        <item>Gracie</item>
+        <item>Greesel</item>
+        <item>Lily</item>
+        <item>Trisha</item>
+        <item>Jeane</item>
+        <item>Moreen</item>
+        <item>Michie</item>
+        <item>Levi</item>
+        <item>Nayla</item>
+        <item>Nachia</item>
+        <item>Oline</item>
+        <item>Regie</item>
+        <item>Ribka</item>
+        <item>Nala</item>
+        <item>Kimmy</item>
+    </string-array>
+
+    <integer-array name="data_kabesha">
+        <item>@drawable/member_ashel</item>
+        <item>@drawable/member_amanda</item>
+        <item>
+            @drawable/member_christy
+        </item>
+        <item>@drawable/member_lia</item>
+        <item>@drawable/member_zee</item>
+        <item>@drawable/member_callie</item>
+        <item>@drawable/member_oniel</item>
+        <item>@drawable/member_olla</item>
+        <item>@drawable/member_feni</item>
+        <item>@drawable/member_fiony</item>
+        <item>@drawable/member_flora</item>
+        <item>@drawable/member_freya</item>
+        <item>@drawable/member_ella</item>
+        <item>@drawable/member_gita</item>
+        <item>@drawable/member_eli</item>
+        <item>@drawable/member_indah</item>
+        <item>@drawable/member_indira</item>
+        <item>@drawable/member_jessi</item>
+        <item>@drawable/member_lyn</item>
+        <item>@drawable/member_kathrina</item>
+        <item>@drawable/member_lulu</item>
+        <item>@drawable/member_marsha</item>
+        <item>@drawable/member_muthe</item>
+        <item>@drawable/member_raisha</item>
+        <item>@drawable/member_adel</item>
+        <item>@drawable/member_shani</item>
+        <item>@drawable/member_gracia</item>
+        <item>@drawable/member_chika</item>
+        <item>@drawable/trainee_aralie</item>
+        <item>@drawable/trainee_delynn</item>
+        <item>@drawable/trainee_shasa</item>
+        <item>@drawable/trainee_alya</item>
+        <item>@drawable/trainee_anin</item>
+        <item>@drawable/trainee_lana</item>
+        <item>@drawable/trainee_erine</item>
+        <item>@drawable/trainee_cathy</item>
+        <item>@drawable/trainee_elin</item>
+        <item>@drawable/trainee_chelsea</item>
+        <item>@drawable/trainee_cynthia</item>
+        <item>@drawable/trainee_dena</item>
+        <item>@drawable/trainee_daisy</item>
+        <item>@drawable/trainee_fritzy</item>
+        <item>@drawable/trainee_gendis</item>
+        <item>@drawable/trainee_gracie</item>
+        <item>@drawable/trainee_gressel</item>
+        <item>@drawable/trainee_lily</item>
+        <item>@drawable/trainee_trisha</item>
+        <item>@drawable/trainee_jeane</item>
+        <item>@drawable/trainee_moreen</item>
+        <item>@drawable/trainee_michie</item>
+        <item>@drawable/trainee_levi</item>
+        <item>@drawable/trainee_nayla</item>
+        <item>@drawable/trainee_nachia</item>
+        <item>@drawable/trainee_oline</item>
+        <item>@drawable/trainee_regie</item>
+        <item>@drawable/trainee_ribka</item>
+        <item>@drawable/trainee_nala</item>
+        <item>@drawable/trainee_kimmy</item>
+    </integer-array>
+
+    <string-array name="data_status">
+        <item>Member Inti</item>
+        <item>Member Inti</item>
+        <item>Member Inti</item>
+        <item>Member Inti</item>
+        <item>Member Inti</item>
+        <item>Member Inti</item>
+        <item>Member Inti</item>
+        <item>Member Inti</item>
+        <item>Member Inti</item>
+        <item>Member Inti</item>
+        <item>Member Inti</item>
+        <item>Member Inti</item>
+        <item>Member Inti</item>
+        <item>Member Inti</item>
+        <item>Member Inti</item>
+        <item>Member Inti</item>
+        <item>Member Inti</item>
+        <item>Member Inti</item>
+        <item>Member Inti</item>
+        <item>Member Inti</item>
+        <item>Member Inti</item>
+        <item>Member Inti</item>
+        <item>Member Inti</item>
+        <item>Member Inti</item>
+        <item>Member Inti</item>
+        <item>Member Inti</item>
+        <item>Member Inti</item>
+        <item>Member Inti</item>
+        <item>Trainee</item>
+        <item>Trainee</item>
+        <item>Trainee</item>
+        <item>Trainee</item>
+        <item>Trainee</item>
+        <item>Trainee</item>
+        <item>Trainee</item>
+        <item>Trainee</item>
+        <item>Trainee</item>
+        <item>Trainee</item>
+        <item>Trainee</item>
+        <item>Trainee</item>
+        <item>Trainee</item>
+        <item>Trainee</item>
+        <item>Trainee</item>
+        <item>Trainee</item>
+        <item>Trainee</item>
+        <item>Trainee</item>
+        <item>Trainee</item>
+        <item>Trainee</item>
+        <item>Trainee</item>
+        <item>Trainee</item>
+        <item>Trainee</item>
+        <item>Trainee</item>
+        <item>Trainee</item>
+        <item>Trainee</item>
+        <item>Trainee</item>
+        <item>Trainee</item>
+        <item>Trainee</item>
+        <item>Trainee</item>
+    </string-array>
+
+    <string-array name="data_gen">
+        <item>Gen 9</item>
+        <item>Gen 10</item>
+        <item>Gen 7</item>
+        <item>Gen 10</item>
+        <item>Gen 7</item>
+        <item>Gen 10</item>
+        <item>Gen 8</item>
+        <item>Gen 7</item>
+        <item>Gen 3</item>
+        <item>Gen 8</item>
+        <item>Gen 8</item>
+        <item>Gen 7</item>
+        <item>Gen 10</item>
+        <item>Gen 6</item>
+        <item>Gen 7</item>
+        <item>Gen 9</item>
+        <item>Gen 10</item>
+        <item>Gen 7</item>
+        <item>Gen 10</item>
+        <item>Gen 9</item>
+        <item>Gen 8</item>
+        <item>Gen 9</item>
+        <item>Gen 7</item>
+        <item>Gen 10</item>
+        <item>Gen 8</item>
+        <item>Gen 3</item>
+        <item>Gen 3</item>
+        <item>Gen 7</item>
+        <item>Gen 12</item>
+        <item>Gen 12</item>
+        <item>Gen 12</item>
+        <item>Gen 11</item>
+        <item>Gen 11</item>
+        <item>Gen 12</item>
+        <item>Gen 12</item>
+        <item>Gen 11</item>
+        <item>Gen 11</item>
+        <item>Gen 11</item>
+        <item>Gen 11</item>
+        <item>Gen 11</item>
+        <item>Gen 11</item>
+        <item>Gen 12</item>
+        <item>Gen 11</item>
+        <item>Gen 11</item>
+        <item>Gen 11</item>
+        <item>Gen 12</item>
+        <item>Gen 12</item>
+        <item>Gen 11</item>
+        <item>Gen 12</item>
+        <item>Gen 11</item>
+        <item>Gen 12</item>
+        <item>Gen 12</item>
+        <item>Gen 12</item>
+        <item>Gen 12</item>
+        <item>Gen 12</item>
+        <item>Gen 12</item>
+        <item>Gen 12</item>
+        <item>Gen 12</item>
+    </string-array>
+
+    <integer-array name="data_gennum">
+        <item>9</item>
+        <item>10</item>
+        <item>7</item>
+        <item>10</item>
+        <item>7</item>
+        <item>10</item>
+        <item>8</item>
+        <item>7</item>
+        <item>3</item>
+        <item>8</item>
+        <item>8</item>
+        <item>7</item>
+        <item>10</item>
+        <item>6</item>
+        <item>7</item>
+        <item>9</item>
+        <item>10</item>
+        <item>7</item>
+        <item>10</item>
+        <item>9</item>
+        <item>8</item>
+        <item>9</item>
+        <item>7</item>
+        <item>10</item>
+        <item>8</item>
+        <item>3</item>
+        <item>3</item>
+        <item>7</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>11</item>
+        <item>11</item>
+        <item>12</item>
+        <item>12</item>
+        <item>11</item>
+        <item>11</item>
+        <item>11</item>
+        <item>11</item>
+        <item>11</item>
+        <item>11</item>
+        <item>12</item>
+        <item>11</item>
+        <item>11</item>
+        <item>11</item>
+        <item>12</item>
+        <item>12</item>
+        <item>11</item>
+        <item>12</item>
+        <item>11</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+    </integer-array>
+
+    <string-array name="data_debgen">
+        <item>1 Desember 2019</item>
+        <item>27 Agustus 2020</item>
+        <item>29 September 2018</item>
+        <item>27 Agustus 2020</item>
+        <item>29 September 2018</item>
+        <item>27 Agustus 2020</item>
+        <item>27 April 2019</item>
+        <item>29 September 2018</item>
+        <item>15 Maret 2014</item>
+        <item>27 April 2019</item>
+        <item>27 April 2019</item>
+        <item>29 September 2018</item>
+        <item>27 Agustus 2020</item>
+        <item>8 April 2016</item>
+        <item>29 September 2018</item>
+        <item>1 Desember 2019</item>
+        <item>27 Agustus 2020</item>
+        <item>29 September 2018</item>
+        <item>27 Agustus 2020</item>
+        <item>1 Desember 2019</item>
+        <item>27 April 2019</item>
+        <item>1 Desember 2019</item>
+        <item>29 September 2018</item>
+        <item>27 Agustus 2020</item>
+        <item>27 April 2019</item>
+        <item>15 Maret 2014</item>
+        <item>15 Maret 2014</item>
+        <item>29 September 2018</item>
+        <item>18 November 2023</item>
+        <item>18 November 2023</item>
+        <item>18 November 2023</item>
+        <item>31 Oktober 2022</item>
+        <item>31 Oktober 2022</item>
+        <item>18 November 2023</item>
+        <item>18 November 2023</item>
+        <item>31 Oktober 2022</item>
+        <item>31 Oktober 2022</item>
+        <item>31 Oktober 2022</item>
+        <item>31 Oktober 2022</item>
+        <item>31 Oktober 2022</item>
+        <item>31 Oktober 2022</item>
+        <item>18 November 2023</item>
+        <item>31 Oktober 2022</item>
+        <item>31 Oktober 2022</item>
+        <item>31 Oktober 2022</item>
+        <item>18 November 2023</item>
+        <item>18 November 2023</item>
+        <item>31 Oktober 2022</item>
+        <item>18 November 2023</item>
+        <item>31 Oktober 2022</item>
+        <item>18 November 2023</item>
+        <item>18 November 2023</item>
+        <item>18 November 2023</item>
+        <item>18 November 2023</item>
+        <item>18 November 2023</item>
+        <item>18 November 2023</item>
+        <item>18 November 2023</item>
+        <item>18 November 2023</item>
+    </string-array>
+
+    <string-array name="data_jiko">
+        <item>Aku datang bagaikan embun pagi yang menyejukan hati</item>
+        <item>Melaju cepat bagai motor 1000cc! Aku si gadis penyuka motor</item>
+        <item>Peduli dan berbaik hati, siapakah dia ? Christy...</item>
+        <item>Si social butterfly yang energik dan periang !</item>
+        <item>Si gadis tomboy yang semangatnya meletup-letup</item>
+        <item>Si beruang madu penyuka madu</item>
+        <item>Seperti teka teki, kalian akan selalu penasaran denganku</item>
+        <item>Dengan keajaibanku, aku akan sellau membuat kalian tertawa, halo aku Olla si mechanic girl</item>
+        <item>Matahari yang indah yang akan selalu memberikan kehangatan setiap harinya</item>
+        <item>Seperti symfony yang menenangkan hati</item>
+        <item>Ada yang mau ikut aku ? Ayo ikut ke dunia Flora, simsalabim akan ku buat kamu menjadi berbunga bunga</item>
+        <item>Gadis koleris yang suka berimajinasi terangi harimu dengan senyum karamelku</item>
+        <item>Ohayou, konnichiwa, oyasumi, aku ingin ada di setiap waktumu</item>
+        <item>Diam bukan berati tidak memperhatikanmu</item>
+        <item>Dengan energi kegembiraanku, aku akan menghangatkan suasana hati</item>
+        <item>Tak banyak bicara cerita melalui tulisan</item>
+        <item>Watashi no kokoro, unlock ! akan menemani hari-harimu dengan sepenuh hati</item>
+        <item>Suka menari dan akan selalu berusaha untuk menjadi sumber energimu</item>
+        <item>Seperti ombak laut yang tenang, tiba-tiba aku akan menyapamu dengan banyak cinta !</item>
+        <item>Never miss a change to be a star !</item>
+        <item>Seperti kerang ajaib yang indah, suara semangatku akan mengiringi hidupmu</item>
+        <item>Seperti pizza yang selalu di nanti-nantikan semua orang, selalu nantikan aku ya !</item>
+        <item>Dengan kelincahanku, aku akan menari setiap hari, panggil aku mumumumuthe</item>
+        <item>Kalau sakura itu kembang, aku itu kembangganmu !</item>
+        <item>Bagai kucing yang kalem, tapi akan selalu memikat hati kamu</item>
+        <item>Semanis coklat, selembut sutra</item>
+        <item>Senyumku terekam jelas alam ingatanmu seperti foto dalam sejuta warna. Namaku Gracia, always smile. Sekali lagi, Gracia...</item>
+        <item>Memberikan kebahagiaan lewat gummy smileku </item>
+        <item>Seperti bunga yang mekar, aku akan membuat kamu, kamu dan kamu terbayang bayang ! Aku Ara Aralie</item>
+        <item>Nyemangatin dan ngangenin, siapa yang kamu pikirkan ? Deline ! Pyong ! Pyong !</item>
+        <item>Horas we ! Gadis ceria yang akan membawamu ke dunia keajaiban penuh warna !</item>
+        <item>Jika hatimu sedang menangis, aku akan datang sebagai pelangi</item>
+        <item>Si mungil hadir semanis mangga</item>
+        <item>Dengan kekuatan bulan, aku akan menyihirmu dengan pesonaku !</item>
+        <item>Hadir dengan seribu kejutan, checkmate ! Siap memenangkan hatimu !</item>
+        <item>Si peri cantik gelita itulah aku </item>
+        <item>Semanis permen kapas dan seindah bunga lavender ! Hola aku Elin !</item>
+        <item>As bright as a shooting star in the starry night</item>
+        <item>Semangatku terus menerus meluap, Pop ! Pop ! Halo aku Cynthia yang selalu semangat !</item>
+        <item>Si penari yang akan menarikmu ke duniaku</item>
+        <item>Seperti bunga daisy, aku akan memancarkan kesegaran dan kebahagiaan !</item>
+        <item>Abracadabra ! Si pesulap yang siap membuat hatimu terpikat ! Halo semuanya it is me Frizzy</item>
+        <item>Bonjour ! Periang dan pencair suasana itulah aku !</item>
+        <item>Manis seperti gulali, imut seperti kelinci, cie cie cie Gracie...</item>
+        <item>Pandangan mataku akan menyinari hatimu bagaikan kunang-kunang di malam hari</item>
+        <item>Papipapipum ! Aku akan mengejutkanmu dengna kehebatanku !</item>
+        <item>Pelukis yang hadir di mimpi-mimpi indahmu. One ! Two ! Three ! Sha !</item>
+        <item>Victoria ! Aku akan selalu memenangkan hatimu !</item>
+        <item>Sweet as a bubblegum, graceful as a princess. Siapakah itu ! One and only, Moreen !</item>
+        <item>Always your number one, till infinity and beyond. Hello everyone, it is Michie</item>
+        <item>Are you ready ? Jalani harimu dengan menari bersamaku, yuhu !</item>
+        <item>Moshi, moshi. Welcome Nayla Laland ! Halo semuanya, bakyu-n. Namaku Nayla !</item>
+        <item>Panda unyu yang selalu ceria ! Hai, aku Nachia bikin kamu bahagia !</item>
+        <item>Semangatku full terus, gas gas gas ! Oline !</item>
+        <item>Bagai kalium yang berekasi dengan air, aku akan meledak dengan semangatku. Boom !</item>
+        <item>Mirror mirror one the wall, who is the sweetest in here ? It is me Ribka !</item>
+        <item>Roar ! Si singa pemberani yang siap menyemangati harimu !</item>
+        <item>Baby hamster yang lincah, aku akan berlari-lari di pikiranmu ! Haloha, katakan Kimmy !</item>
+    </string-array>
+
+    <string-array name="data_birthday">
+        <item>8 Januari 2005</item>
+        <item>17 Desember 2004</item>
+        <item>5 Desember 2005</item>
+        <item>29 Oktober 2002</item>
+        <item>16 Mei 2004</item>
+        <item>8 Agustus 2005</item>
+        <item>26 Juli 2002</item>
+        <item>26 Februari 2005</item>
+        <item>16 Januari 1999</item>
+        <item>4 Februari 2002</item>
+        <item>4 April 2005</item>
+        <item>13 Februari 2006</item>
+        <item>7 Agustus 2006</item>
+        <item>30 Juni 2001</item>
+        <item>15 Juni 2000</item>
+        <item>20 Maret 2001</item>
+        <item>26 April 2004</item>
+        <item>23 September 2005</item>
+        <item>13 September 2001</item>
+        <item>26 Juli 2006</item>
+        <item>23 Oktober 2002</item>
+        <item>9 Januari 2006</item>
+        <item>12 Juli 2004</item>
+        <item>11 November 2007</item>
+        <item>14 Juli 2006</item>
+        <item>5 Oktober 1998</item>
+        <item>31 Agustus 1999</item>
+        <item>24 September 2002</item>
+        <item>6 Agustus 2008</item>
+        <item>1 September 2007</item>
+        <item>31 Januari 2006</item>
+        <item>26 Agustus 2006</item>
+        <item>18 Oktober 2005</item>
+        <item>14 September 2006</item>
+        <item>21 Agustus 2007</item>
+        <item>28 Mei 2009</item>
+        <item>9 April 2007</item>
+        <item>23 Desember 2009</item>
+        <item>22 November 2003</item>
+        <item>16 Desember 2005</item>
+        <item>16 Desember 2005</item>
+        <item>28 Juli 2008</item>
+        <item>23 Juni 2010</item>
+        <item>18 Oktober 2007</item>
+        <item>10 Januari 2006</item>
+        <item>19 Oktober 2007</item>
+        <item>16 Februari 2011</item>
+        <item>5 Juni 2006</item>
+        <item>7 Juni 2010</item>
+        <item>22 April 2009</item>
+        <item>24 Januari 2009</item>
+        <item>18 Juni 2007</item>
+        <item>16 Oktober 2009</item>
+        <item>3 November 2007</item>
+        <item>10 Desember 2009</item>
+        <item>13 Januari 2009</item>
+        <item>1 September 2008</item>
+        <item>8 Maret 2010</item>
+    </string-array>
+
+    <string-array name="data_horoscope">
+        <item>Capricorn</item>
+        <item>Sagitarius</item>
+        <item>Sagitarius</item>
+        <item>Scorpio</item>
+        <item>Saurus</item>
+        <item>Leo</item>
+        <item>Leo</item>
+        <item>Pisces</item>
+        <item>Capricorn</item>
+        <item>Aquarius</item>
+        <item>Aries</item>
+        <item>Aquarius</item>
+        <item>Leo</item>
+        <item>Cancer</item>
+        <item>Gemini</item>
+        <item>Pisces</item>
+        <item>Taurus</item>
+        <item>Libra</item>
+        <item>Virgo</item>
+        <item>Leo</item>
+        <item>Scorpio</item>
+        <item>Capricorn</item>
+        <item>Cancer</item>
+        <item>Scorpio</item>
+        <item>Cancer</item>
+        <item>Libra</item>
+        <item>Virgo</item>
+        <item>Libra</item>
+        <item>Leo</item>
+        <item>Virgo</item>
+        <item>Capricorn</item>
+        <item>Virgo</item>
+        <item>Libra</item>
+        <item>Virgo</item>
+        <item>Leo</item>
+        <item>Gemini</item>
+        <item>Aries</item>
+        <item>Capricorn</item>
+        <item>Sagittarius</item>
+        <item>Sagittarius</item>
+        <item>Sagittarius</item>
+        <item>Leo</item>
+        <item>Cancer</item>
+        <item>Libra</item>
+        <item>Capricorn</item>
+        <item>Libra</item>
+        <item>Libra</item>
+        <item>Gemini</item>
+        <item>Gemini</item>
+        <item>Taurus</item>
+        <item>Aquarius</item>
+        <item>Gemini</item>
+        <item>Libra</item>
+        <item>Scorpio</item>
+        <item>Sagittarius</item>
+        <item>Capricorn</item>
+        <item>Virgo</item>
+        <item>Pisces</item>
+    </string-array>
+
+    <string-array name="data_goldarah">
+        <item>B</item>
+        <item>O</item>
+        <item>O</item>
+        <item>O</item>
+        <item>O</item>
+        <item>O</item>
+        <item>O</item>
+        <item>B</item>
+        <item>O</item>
+        <item>O</item>
+        <item>B</item>
+        <item>B</item>
+        <item>B</item>
+        <item>O</item>
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+        <item>O</item>
+        <item>O</item>
+        <item>A</item>
+        <item>B</item>
+        <item>O</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>A</item>
+        <item>B</item>
+        <item>A</item>
+        <item>A</item>
+        <item>B</item>
+        <item>B</item>
+        <item>B</item>
+        <item>A</item>
+        <item>O</item>
+        <item>N/A</item>
+        <item>B</item>
+        <item>A</item>
+        <item>O</item>
+        <item>B</item>
+        <item>O</item>
+        <item>O</item>
+        <item>O</item>
+        <item>A</item>
+        <item>B</item>
+        <item>B</item>
+        <item>O</item>
+        <item>O</item>
+        <item>O</item>
+        <item>O</item>
+        <item>O</item>
+        <item>O</item>
+        <item>O</item>
+        <item>AB</item>
+        <item>O</item>
+        <item>B</item>
+        <item>B</item>
+        <item>O</item>
+        <item>B</item>
+        <item>AB</item>
+    </string-array>
+
+    <integer-array name="data_show">
+        <item>181</item>
+        <item>44</item>
+        <item>257</item>
+        <item>84</item>
+        <item>226</item>
+        <item>96</item>
+        <item>249</item>
+        <item>275</item>
+        <item>720</item>
+        <item>234</item>
+        <item>193</item>
+        <item>296</item>
+        <item>90</item>
+        <item>238</item>
+        <item>275</item>
+        <item>159</item>
+        <item>118</item>
+        <item>336</item>
+        <item>56</item>
+        <item>193</item>
+        <item>268</item>
+        <item>198</item>
+        <item>307</item>
+        <item>82</item>
+        <item>179</item>
+        <item>710</item>
+        <item>688</item>
+        <item>264</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>34</item>
+        <item>23</item>
+        <item>0</item>
+        <item>0</item>
+        <item>39</item>
+        <item>23</item>
+        <item>37</item>
+        <item>35</item>
+        <item>38</item>
+        <item>34</item>
+        <item>0</item>
+        <item>36</item>
+        <item>46</item>
+        <item>33</item>
+        <item>0</item>
+        <item>0</item>
+        <item>33</item>
+        <item>0</item>
+        <item>38</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+
+    <string-array name="data_tomemakt">
+        <item>25 Januari 2020</item>
+        <item>8 Mei 2023</item>
+        <item>27 April 2019</item>
+        <item>8 Mei 2023</item>
+        <item>5 Oktober 2019</item>
+        <item>8 Mei 2023</item>
+        <item>1 Juni 2020</item>
+        <item>1 Juni 2020</item>
+        <item>24 Januari 2015</item>
+        <item>2 Juni 2020</item>
+        <item>30 Mei 2020</item>
+        <item>2 Juni 2020</item>
+        <item>8 Mei 2023</item>
+        <item>27 April 2019</item>
+        <item>21 Juli 2019</item>
+        <item>11 Maret 2021</item>
+        <item>8 Mei 2023</item>
+        <item>30 Mei 2020</item>
+        <item>8 Mei 2023</item>
+        <item>11 Maret 2021</item>
+        <item>29 Mei 2020</item>
+        <item>11 Maret 2021</item>
+        <item>21 Juli 2019</item>
+        <item>8 Mei 2023</item>
+        <item>29 Mei 2020</item>
+        <item>24 Januari 2015</item>
+        <item>24 Januari 2015</item>
+        <item>27 April 2019</item>
+        <item>TBC</item>
+        <item>TBC</item>
+        <item>TBC</item>
+        <item>TBC</item>
+        <item>TBC</item>
+        <item>TBC</item>
+        <item>TBC</item>
+        <item>TBC</item>
+        <item>TBC</item>
+        <item>TBC</item>
+        <item>TBC</item>
+        <item>TBC</item>
+        <item>TBC</item>
+        <item>TBC</item>
+        <item>TBC</item>
+        <item>1 Februari 2024</item>
+        <item>1 Februari 2024</item>
+        <item>TBC</item>
+        <item>TBC</item>
+        <item>TBC</item>
+        <item>TBC</item>
+        <item>TBC</item>
+        <item>TBC</item>
+        <item>TBC</item>
+        <item>TBC</item>
+        <item>TBC</item>
+        <item>TBC</item>
+        <item>TBC</item>
+        <item>TBC</item>
+        <item>TBC</item>
+    </string-array>
+
+    <string-array name="data_instagram">
+        <item>https://www.instagram.com/jkt48.ashel/</item>
+        <item>https://www.instagram.com/jkt48.amanda.s</item>
+        <item>https://www.instagram.com/jkt48.christy</item>
+        <item>https://www.instagram.com/jkt48.aurellia_/</item>
+        <item>https://www.instagram.com/jkt48.zee/</item>
+        <item>https://www.instagram.com/jkt48.callie.a/</item>
+        <item>https://www.instagram.com/jkt48.oniel/</item>
+        <item>https://www.instagram.com/jkt48.olla/</item>
+        <item>https://www.instagram.com/jkt48feni/</item>
+        <item>https://www.instagram.com/jkt48.fiony/</item>
+        <item>https://www.instagram.com/jkt48.flora/</item>
+        <item>https://www.instagram.com/jkt48.freya/</item>
+        <item>https://instagram.com/jkt48.ella.a/</item>
+        <item>https://www.instagram.com/jkt48gita/</item>
+        <item>https://www.instagram.com/jkt48.eli/</item>
+        <item>https://www.instagram.com/jkt48indah_/</item>
+        <item>https://www.instagram.com/jkt48.indira.s/</item>
+        <item>https://www.instagram.com/jkt48.jessi/</item>
+        <item>https://www.instagram.com/jkt48.lyn.s/</item>
+        <item>https://www.instagram.com/jkt48.kathrina/</item>
+        <item>https://www.instagram.com/jkt48.lulu/</item>
+        <item>https://www.instagram.com/jkt48.marsha/</item>
+        <item>https://www.instagram.com/jkt48.muthe_/</item>
+        <item>https://www.instagram.com/jkt48.raisha.s/</item>
+        <item>https://www.instagram.com/jkt48.adel/</item>
+        <item>https://www.instagram.com/jkt48shani/</item>
+        <item>https://www.instagram.com/jkt48gracia/</item>
+        <item>https://www.instagram.com/jkt48.chika/</item>
+        <item>https://www.instagram.com/jkt48.aralie/</item>
+        <item>https://www.instagram.com/jkt48.delynn/</item>
+        <item>https://www.instagram.com/jkt48.shasa/</item>
+        <item>https://www.instagram.com/jkt48.alya_/</item>
+        <item>https://www.instagram.com/jkt48.anindya_/</item>
+        <item>https://www.instagram.com/jkt48.lana.a/</item>
+        <item>https://www.instagram.com/jkt48.erine/</item>
+        <item>https://www.instagram.com/jkt48.cathy/</item>
+        <item>https://www.instagram.com/jkt48.elin_/</item>
+        <item>https://www.instagram.com/jkt48.chelsea.d/</item>
+        <item>https://www.instagram.com/jkt48.cynthia/</item>
+        <item>https://www.instagram.com/jkt48.danella/</item>
+        <item>https://www.instagram.com/jkt48.daisy/</item>
+        <item>https://www.instagram.com/jkt48.fritzy.r/</item>
+        <item>https://www.instagram.com/jkt48.gendis/</item>
+        <item>https://www.instagram.com/jkt48.gracie/</item>
+        <item>https://www.instagram.com/jkt48.greesel/</item>
+        <item>https://www.instagram.com/jkt48.lily_/</item>
+        <item>https://www.instagram.com/jkt48.trisha/</item>
+        <item>https://www.instagram.com/jkt48.jeane/</item>
+        <item>https://www.instagram.com/jkt48.moreen/</item>
+        <item>https://www.instagram.com/jkt48.michie_/</item>
+        <item>https://www.instagram.com/jkt48.levi/</item>
+        <item>https://www.instagram.com/jkt48.nayla.s/</item>
+        <item>https://www.instagram.com/jkt48.nachia.t/</item>
+        <item>https://www.instagram.com/jkt48.oline/</item>
+        <item>https://www.instagram.com/jkt48.regie/</item>
+        <item>https://www.instagram.com/jkt48.ribka/</item>
+        <item>https://www.instagram.com/jkt48.nala/</item>
+        <item>https://www.instagram.com/jkt48.kimmy/</item>
+    </string-array>
+
+    <string-array name="data_twitter">
+        <item>https://twitter.com/S_AshelJKT48</item>
+        <item>https://twitter.com/PS_AmandaJKT48</item>
+        <item>https://twitter.com/A_ChristyJKT48</item>
+        <item>https://twitter.com/AU_LiaJKT48</item>
+        <item>https://twitter.com/A_ZeeJKT48</item>
+        <item>https://twitter.com/AW_CallieJKT48</item>
+        <item>https://twitter.com/C_OnielJKT48</item>
+        <item>https://twitter.com/F_OllaJKT48</item>
+        <item>https://twitter.com/F_FeniJKT48</item>
+        <item>https://twitter.com/A_FionyJKT48</item>
+        <item>https://twitter.com/S_FloraJKT48</item>
+        <item>https://twitter.com/Freya_JKT48</item>
+        <item>https://twitter.com/AM_EllaJKT48</item>
+        <item>https://twitter.com/A_GitaJKT48</item>
+        <item>https://twitter.com/H_EliJKT48</item>
+        <item>https://twitter.com/C_IndahJKT48</item>
+        <item>https://twitter.com/SP_IndiraJKT48</item>
+        <item>https://twitter.com/C_JessiJKT48</item>
+        <item>https://twitter.com/SE_LynJKT48</item>
+        <item>https://twitter.com/I_KathrinaJKT48</item>
+        <item>https://twitter.com/A_LuluJKT48</item>
+        <item>https://twitter.com/L_MarshaJKT48</item>
+        <item>https://twitter.com/A_MutheJKT48</item>
+        <item>https://twitter.com/SW_RaishaJKT48</item>
+        <item>https://twitter.com/R_AdelJKT48</item>
+        <item>https://twitter.com/N_ShaniJKT48</item>
+        <item>https://twitter.com/S_GraciaJKT48</item>
+        <item>https://twitter.com/Y_ChikaJKT48</item>
+        <item>https://twitter.com/Aralie_JKT48</item>
+        <item>https://twitter.com/Delynn_JKT48</item>
+        <item>https://twitter.com/Shasa_JKT48</item>
+        <item>https://twitter.com/AA_AlyaJKT48</item>
+        <item>https://twitter.com/AR_AnindyaJKT48</item>
+        <item>https://twitter.com/AR_LanaJKT48</item>
+        <item>https://twitter.com/CErine_JKT48</item>
+        <item>https://twitter.com/N_CathyJKT48</item>
+        <item>https://twitter.com/Elin_JKT48</item>
+        <item>https://twitter.com/DC_ChelseaJKT48</item>
+        <item>https://twitter.com/Y_CynthiaJKT48</item>
+        <item>https://twitter.com/Danella_JKT48</item>
+        <item>https://twitter.com/Daisy_JKT48</item>
+        <item>https://twitter.com/RFritzy_JKT48</item>
+        <item>https://twitter.com/Gendis_JKT48</item>
+        <item>https://twitter.com/Gracie_JKT48</item>
+        <item>https://twitter.com/Greesel_JKT48</item>
+        <item>https://twitter.com/Lily_JKT48</item>
+        <item>https://twitter.com/JTrisha_JKT48</item>
+        <item>https://twitter.com/Jeane_JKT48</item>
+        <item>https://twitter.com/Moreen_JKT48</item>
+        <item>https://twitter.com/Michie_JKT48</item>
+        <item>https://twitter.com/Levi_JKT48</item>
+        <item>https://twitter.com/SNayla_JKT48</item>
+        <item>https://twitter.com/Nachia_JKT48</item>
+        <item>https://twitter.com/M_OlineJKT48</item>
+        <item>https://twitter.com/Regie_JKT48</item>
+        <item>https://twitter.com/Ribka_JKT48</item>
+        <item>https://twitter.com/Nala_JKT48</item>
+        <item>https://twitter.com/Kimmy_JKT48</item>
+    </string-array>
+
+    <string-array name="data_tiktok">
+        <item>https://www.tiktok.com/@asheljkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@jkt48.amanda.s?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@christyjkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@jkt48.aurellia_?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@zeejkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@jkt48.callie.a?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@onieljkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@ollajkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@fenijkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@fionyjkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@florajkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@freyajkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@jkt48.ella.a?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@gitajkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@elijkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@indahjkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@jkt48.indira.s?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@jessijkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@jkt48.lyn.s?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@kathrinjkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@lulu_jkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@marsha.jkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@muthejkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@jkt48.raisha.s?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@adeljkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@shanijkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@graciajkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@chikajkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@jkt48.aralie?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@jkt48.delynn?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@jkt48.shasa</item>
+        <item>https://www.tiktok.com/@alyajkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@anindyajkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@jkt48.lana</item>
+        <item>https://www.tiktok.com/@jkt48.erine_</item>
+        <item>https://www.tiktok.com/@cathyjkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@elinjkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@chelseajkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@cynthiajkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@danellajkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@daisyjkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@jkt48.fritzy</item>
+        <item>https://www.tiktok.com/@gendisjkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@graciejkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@greeseljkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@jkt48.lily</item>
+        <item>https://www.tiktok.com/@jkt48.trisha</item>
+        <item>https://www.tiktok.com/@jeanejkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@jkt48.moreen</item>
+        <item>https://www.tiktok.com/@michiejkt48?lang=ja-JP</item>
+        <item>https://www.tiktok.com/@jkt48.levi</item>
+        <item>https://www.tiktok.com/@jkt48.nayla</item>
+        <item>https://www.tiktok.com/@jkt48.nachia</item>
+        <item>https://www.tiktok.com/@jkt48.oline</item>
+        <item>https://www.tiktok.com/@jkt48.regie</item>
+        <item>https://www.tiktok.com/@jkt48.ribka</item>
+        <item>https://www.tiktok.com/@jkt48.ribka</item>
+        <item>https://www.tiktok.com/@jkt48.kimmy</item>
+    </string-array>
+
+    <string-array name="data_showroom">
+        <item>https://www.showroom-live.com/r/JKT48_Ashel</item>
+        <item>https://www.showroom-live.com/r/JKT48_Amanda</item>
+        <item>https://www.showroom-live.com/r/JKT48_Christy</item>
+        <item>https://www.showroom-live.com/r/JKT48_Lia</item>
+        <item>https://www.showroom-live.com/r/JKT48_Zee</item>
+        <item>https://www.showroom-live.com/r/JKT48_Callie</item>
+        <item>https://www.showroom-live.com/r/JKT48_Oniel</item>
+        <item>https://www.showroom-live.com/r/JKT48_Olla</item>
+        <item>https://www.showroom-live.com/r/JKT48_Feni</item>
+        <item>https://www.showroom-live.com/r/JKT48_Fiony</item>
+        <item>https://www.showroom-live.com/r/JKT48_Flora</item>
+        <item>https://www.showroom-live.com/r/JKT48_Freya</item>
+        <item>https://www.showroom-live.com/r/JKT48_Ella</item>
+        <item>https://www.showroom-live.com/r/JKT48_Gita</item>
+        <item>https://www.showroom-live.com/r/JKT48_Eli</item>
+        <item>https://www.showroom-live.com/r/JKT48_Indah</item>
+        <item>https://www.showroom-live.com/r/JKT48_Indira</item>
+        <item>https://www.showroom-live.com/r/JKT48_Jessi</item>
+        <item>https://www.showroom-live.com/r/JKT48_Lyn</item>
+        <item>https://www.showroom-live.com/r/JKT48_Kathrina</item>
+        <item>https://www.showroom-live.com/r/JKT48_Lulu</item>
+        <item>https://www.showroom-live.com/r/JKT48_Marsha</item>
+        <item>https://www.showroom-live.com/r/JKT48_Muthe</item>
+        <item>https://www.showroom-live.com/r/JKT48_Raisha</item>
+        <item>https://www.showroom-live.com/r/JKT48_Adel</item>
+        <item>https://www.showroom-live.com/r/JKT48_Shani</item>
+        <item>https://www.showroom-live.com/r/JKT48_Gracia</item>
+        <item>https://www.showroom-live.com/r/JKT48_Chika</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>https://www.showroom-live.com/r/JKT48_Alya</item>
+        <item>https://www.showroom-live.com/r/JKT48_Anindya</item>
+        <item></item>
+        <item></item>
+        <item>https://www.showroom-live.com/r/JKT48_Cathy</item>
+        <item>https://www.showroom-live.com/r/JKT48_Elin</item>
+        <item>https://www.showroom-live.com/r/JKT48_Chelsea</item>
+        <item>https://www.showroom-live.com/r/JKT48_Cynthia</item>
+        <item>https://www.showroom-live.com/r/JKT48_Danella</item>
+        <item>https://www.showroom-live.com/r/JKT48_Daisy</item>
+        <item></item>
+        <item>https://www.showroom-live.com/r/JKT48_Gendis</item>
+        <item>https://www.showroom-live.com/r/JKT48_Gracie</item>
+        <item>https://www.showroom-live.com/r/JKT48_Greesel</item>
+        <item></item>
+        <item></item>
+        <item>https://www.showroom-live.com/r/JKT48_Jeane</item>
+        <item></item>
+        <item>https://www.showroom-live.com/r/JKT48_Michie</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="data_idnlive">
+        <item>https://www.idn.app/jkt48_ashel</item>
+        <item>https://www.idn.app/jkt48_amanda</item>
+        <item>https://www.idn.app/jkt48_christy</item>
+        <item>https://www.idn.app/jkt48_lia</item>
+        <item>https://www.idn.app/jkt48_zee</item>
+        <item>https://www.idn.app/jkt48_callie</item>
+        <item>https://www.idn.app/jkt48_oniel</item>
+        <item>https://www.idn.app/jkt48_olla</item>
+        <item>https://www.idn.app/jkt48_feni</item>
+        <item>https://www.idn.app/jkt48_fiony</item>
+        <item>https://www.idn.app/jkt48_flora</item>
+        <item>https://www.idn.app/jkt48_freya</item>
+        <item>https://www.idn.app/jkt48_ella</item>
+        <item>https://www.idn.app/jkt48_gita</item>
+        <item>https://www.idn.app/jkt48_eli</item>
+        <item>https://www.idn.app/jkt48_indah</item>
+        <item>https://www.idn.app/jkt48_indira</item>
+        <item>https://www.idn.app/jkt48_jessi</item>
+        <item>https://www.idn.app/jkt48_lyn</item>
+        <item>https://www.idn.app/jkt48_kathrina</item>
+        <item>https://www.idn.app/jkt48_lulu</item>
+        <item>https://www.idn.app/jkt48_marsha</item>
+        <item>https://www.idn.app/jkt48_muthe</item>
+        <item>https://www.idn.app/jkt48_raisha</item>
+        <item>https://www.idn.app/jkt48_adel</item>
+        <item>https://www.idn.app/jkt48_shani</item>
+        <item>https://www.idn.app/jkt48_gracia</item>
+        <item>https://www.idn.app/jkt48_chika</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>https://www.idn.app/jkt48_alya</item>
+        <item>https://www.idn.app/jkt48_anindya</item>
+        <item></item>
+        <item></item>
+        <item>https://www.idn.app/jkt48_cathy</item>
+        <item>https://www.idn.app/jkt48_elin</item>
+        <item>https://www.idn.app/jkt48_chelsea</item>
+        <item>https://www.idn.app/jkt48_cynthia</item>
+        <item>https://www.idn.app/jkt48_danella</item>
+        <item>https://www.idn.app/jkt48_daisy</item>
+        <item></item>
+        <item>https://www.idn.app/jkt48_gendis</item>
+        <item>https://www.idn.app/jkt48_gracie</item>
+        <item>https://www.idn.app/jkt48_greesel</item>
+        <item></item>
+        <item></item>
+        <item>https://www.idn.app/jkt48_jeane</item>
+        <item></item>
+        <item>https://www.idn.app/jkt48_michie</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="data_fanbase">
+        <item>Ashelytic</item>
+        <item>Mandaffection</item>
+        <item>Christyzer</item>
+        <item>Liamelior</item>
+        <item>ZeeMotion</item>
+        <item>Callistavers</item>
+        <item>Onielity</item>
+        <item>Olla the Miracle</item>
+        <item>Fenidelity</item>
+        <item>Symfiony</item>
+        <item>FloRisen</item>
+        <item>Freyanation</item>
+        <item>Ellatheria</item>
+        <item>Gitroops</item>
+        <item>Helismiley</item>
+        <item>Interindah</item>
+        <item>Indiraise</item>
+        <item>Jessination</item>
+        <item>LynerarID</item>
+        <item>Kath,Inch.</item>
+        <item>Lunarian</item>
+        <item>MarshaOshi</item>
+        <item>Muffin</item>
+        <item>Raishanrise</item>
+        <item>Adellion</item>
+        <item>Inshanity</item>
+        <item>Gracias</item>
+        <item>Navy</item>
+        <item>Arariel</item>
+        <item>Adeliner</item>
+        <item>AisaReine</item>
+        <item>Alamanda</item>
+        <item>Aninimous</item>
+        <item>Lanautica</item>
+        <item>Cavallery</item>
+        <item>Cathleenexus</item>
+        <item>Cellineyours</item>
+        <item>Chelsealand</item>
+        <item>Cynthia In Action</item>
+        <item>Denalize</item>
+        <item>Daisynateur</item>
+        <item>Fritzy Force</item>
+        <item>Gendiscious</item>
+        <item>Gracieluv</item>
+        <item>Degrees</item>
+        <item>Hillaryours</item>
+        <item>Trishairs</item>
+        <item>Jeanity</item>
+        <item>Morrealta</item>
+        <item>Michiban</item>
+        <item>Le Viosa</item>
+        <item>NayLight</item>
+        <item>Yokinachia</item>
+        <item>OlinEver</item>
+        <item>Regilios</item>
+        <item>Ribcalls</item>
+        <item>NalaFlow</item>
+        <item>Victorian Era</item>
+    </string-array>
+
+    <string-array name="data_twitterfb">
+        <item>https://twitter.com/Ashelytic</item>
+        <item>https://twitter.com/mandaffection</item>
+        <item>https://twitter.com/Christyzer</item>
+        <item>https://twitter.com/Liamelior</item>
+        <item>https://twitter.com/ZeeMotionID</item>
+        <item>https://twitter.com/callistaverss</item>
+        <item>https://twitter.com/onielity_ofc</item>
+        <item>https://twitter.com/Olla_TheMiracle</item>
+        <item>https://twitter.com/Fenidelity_INA</item>
+        <item>https://twitter.com/Symfiony</item>
+        <item>https://twitter.com/FloRisenID</item>
+        <item>https://twitter.com/FreyanationID</item>
+        <item>https://twitter.com/EllatheriaOfc</item>
+        <item>https://twitter.com/gitroops</item>
+        <item>https://twitter.com/Helismiley_OFC</item>
+        <item>https://twitter.com/InterindahFC</item>
+        <item>https://twitter.com/Indiraise_ID</item>
+        <item>https://twitter.com/C_Jessination48</item>
+        <item>https://twitter.com/LynearID</item>
+        <item>https://twitter.com/KATH_inc</item>
+        <item>https://twitter.com/LunarianID</item>
+        <item>https://twitter.com/marshaoshi_</item>
+        <item>https://twitter.com/MuffinOfficial_</item>
+        <item>https://twitter.com/RaishanriseOfc</item>
+        <item>https://twitter.com/Adellion_</item>
+        <item>https://twitter.com/InshanityID</item>
+        <item>https://twitter.com/GraciasFans_INA</item>
+        <item>https://twitter.com/NAVY_INA</item>
+        <item>https://twitter.com/arariel_id</item>
+        <item>https://twitter.com/Adeliner_Ina</item>
+        <item>https://twitter.com/aisareineofc</item>
+        <item>https://twitter.com/Alamanda_INA</item>
+        <item>https://twitter.com/aninimous_ina</item>
+        <item>https://twitter.com/Lanautica_OFC</item>
+        <item>https://twitter.com/CavalleryID</item>
+        <item>https://twitter.com/Cathleenexus</item>
+        <item>https://twitter.com/CellineyoursOfc</item>
+        <item>https://twitter.com/ChelsealandOFC</item>
+        <item>https://twitter.com/Cynthiaction</item>
+        <item>https://twitter.com/DenalizeID</item>
+        <item>https://twitter.com/Daisynateur_id</item>
+        <item>https://twitter.com/FritzyForce</item>
+        <item>https://twitter.com/Gendiscious_OFC</item>
+        <item>https://twitter.com/Gracieluv_ID</item>
+        <item>https://twitter.com/Degrees_OFC</item>
+        <item>https://twitter.com/Hillaryours_ID</item>
+        <item>https://twitter.com/trishairs_ofc</item>
+        <item>https://twitter.com/JeanityID</item>
+        <item>https://twitter.com/Morrealta</item>
+        <item>https://twitter.com/Michiban_</item>
+        <item>https://twitter.com/Le_ViosaID</item>
+        <item>https://twitter.com/NayLight_id</item>
+        <item>https://twitter.com/YOKINACHIA</item>
+        <item>https://twitter.com/olineverofc</item>
+        <item>https://twitter.com/regilios_ofc</item>
+        <item>https://twitter.com/Ribcalls_OFC</item>
+        <item>https://twitter.com/Nalaflow_OFC</item>
+        <item>https://twitter.com/VictorianEraOFC</item>
+    </string-array>
+
+
+</resources>
+
